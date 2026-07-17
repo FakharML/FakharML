@@ -1,148 +1,59 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20[Your%20Name]%20👋&fontSize=55&animation=fadeIn" width="100%" />
-</div>
+# Hi there, I'm Fakhar 👋
 
-<div align="center">
-  <h3>⚡ AI & Machine Learning Engineer ⚡</h3>
-  <p>Building intelligent systems, training robust models, and solving complex, real-world problems through data.</p>
-
-  <!-- Badges -->
-  <a href="https://linkedin.com/in/[Your-LinkedIn-Username]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[Your-Email@example.com]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://[Your-Portfolio-Link]">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<br />
+I am an aspiring **Artificial Intelligence & Machine Learning Engineer** dedicated to building intelligent systems, training robust models, and solving complex, real-world problems through data. Currently balancing academic progression with hands-on technical development, I am focused on mastering the end-to-end ML lifecycle.
 
 ---
 
 ## 🚀 About Me
 
-*   🎓 **Education:** Computer Science / Artificial Intelligence Student.
-*   ⚡ **Daily Commitment:** Dedicating **6–8 hours daily** to mastering mathematics, algorithms, and end-to-end model development.
-*   💼 **Career Focus:** Actively preparing for remote AI/ML engineering roles and freelance collaborations starting **January 2027**.
-*   🌱 **Core Philosophy:** Clean code, robust data pipelines, and highly optimized, scalable model training.
+- 🎓 **Education:** University Student (Computer Science / AI focus)
+- 💼 **Goal:** Stepping into remote AI/ML engineering roles and freelancing by January 2027.
+- ⚡ **Daily Grind:** Spending 6–8 hours daily diving deep into mathematics, algorithms, and model development.
+- 🌱 **Currently Learning:** Advanced Machine Learning algorithms, Deep Learning frameworks, and MLOps.
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🛠️ Tech Stack & Tools
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33.3%">
-      <strong>🐍 Languages</strong>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-      <br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    </td>
-    <td align="center" width="33.3%">
-      <strong>🧠 AI & Machine Learning</strong>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    </td>
-    <td align="center" width="33.3%">
-      <strong>⚙️ Tools & DevOps</strong>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    </td>
-  </tr>
-</table>
+### 🐍 Languages & Core
+*   **Languages:** Python (Advanced), SQL, C++
+*   **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
+
+### 🤖 Machine Learning & Deep Learning *(In Progress / Active Study)*
+*   **Frameworks:** Scikit-Learn, TensorFlow, PyTorch
+*   **Concepts:** Supervised & Unsupervised Learning, Feature Engineering, Neural Networks, Model Evaluation
+
+### ⚙️ Tools & DevOps
+*   **Version Control:** Git, GitHub
+*   **Environments:** Jupyter Notebooks, VS Code, Google Colab
 
 ---
 
-## 📈 Developer Metrics
+## 📈 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+### 🔮 [Project Name 1] | *[Key Tech Used, e.g., Python, Scikit-Learn]*
+> **Description:** A brief 1-2 sentence description of what the project does and the problem it solves.
+*   **Key Achievement:** Improved model accuracy by X% using specific feature engineering.
+*   **Link:** [View Repository](https://github.com/yourusername/project-link)
 
----
-
-## 🎮 Contribution Snake Game
-
-A fun visualization of my daily commitment to code and engineering progress:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg">
-</picture>
-name: generate animation
-
-on:
-  # run automatically every 24 hours
-  schedule:
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-  # run on every push on the main branch
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+### 📊 [Project Name 2] | *[Key Tech Used, e.g., Pandas, NumPy, Streamlit]*
+> **Description:** A brief 1-2 sentence description of the project and its real-world application.
+*   **Key Achievement:** Built an interactive dashboard to visualize and predict [X metric].
+*   **Link:** [View Repository](https://github.com/yourusername/project-link)
 
 ---
 
-## 🔮 Featured Projects
+## 📊 GitHub Stats
 
-### 🚀 [Project Name 1] | `Python` `Scikit-Learn` `Pandas`
-> **Description:** A brief 1-2 sentence description detailing the core algorithm and business objective solved.
-*   **Performance Metric:** Achieved X% accuracy / improved execution efficiency by Y%.
-*   📁 **[Explore Codebase](https://github.com/yourusername/project-link)**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
-### 📊 [Project Name 2] | `Python` `Data Visualization` `ML`
-> **Description:** A brief explanation of the model architecture, feature engineering, and output insights.
-*   **Key Achievement:** Transformed raw data into a predictive system with high-precision forecasting.
-*   📁 **[Explore Codebase](https://github.com/yourusername/project-link)**
+---
 
-<br />
+## 🤝 Let's Connect!
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
-</div>
+I am always open to collaborating on open-source AI/ML projects, discussing research, or exploring remote freelance opportunities. 
+
+*   **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+*   **Email:** [your.email@example.com](mailto:your.email@example.com)
+*   **Portfolio:** [yourportfolio.com](https://yourportfolio.com) (Optional)
