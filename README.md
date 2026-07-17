@@ -1,52 +1,59 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+# Hi there, I'm [Your Name] 👋
 
-###
+I am an aspiring **Artificial Intelligence & Machine Learning Engineer** dedicated to building intelligent systems, training robust models, and solving complex, real-world problems through data. Currently balancing academic progression with hands-on technical development, I am focused on mastering the end-to-end ML lifecycle.
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
+## 🚀 About Me
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+- 🎓 **Education:** University Student (Computer Science / AI focus)
+- 💼 **Goal:** Stepping into remote AI/ML engineering roles and freelancing by January 2027.
+- ⚡ **Daily Grind:** Spending 6–8 hours daily diving deep into mathematics, algorithms, and model development.
+- 🌱 **Currently Learning:** Advanced Machine Learning algorithms, Deep Learning frameworks, and MLOps.
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+## 🛠️ Tech Stack & Tools
 
-###
+### 🐍 Languages & Core
+*   **Languages:** Python (Advanced), SQL, C++
+*   **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+### 🤖 Machine Learning & Deep Learning *(In Progress / Active Study)*
+*   **Frameworks:** Scikit-Learn, TensorFlow, PyTorch
+*   **Concepts:** Supervised & Unsupervised Learning, Feature Engineering, Neural Networks, Model Evaluation
 
-###
+### ⚙️ Tools & DevOps
+*   **Version Control:** Git, GitHub
+*   **Environments:** Jupyter Notebooks, VS Code, Google Colab
+
+---
+
+## 📈 Featured Projects
+
+### 🔮 [Project Name 1] | *[Key Tech Used, e.g., Python, Scikit-Learn]*
+> **Description:** A brief 1-2 sentence description of what the project does and the problem it solves.
+*   **Key Achievement:** Improved model accuracy by X% using specific feature engineering.
+*   **Link:** [View Repository](https://github.com/yourusername/project-link)
+
+### 📊 [Project Name 2] | *[Key Tech Used, e.g., Pandas, NumPy, Streamlit]*
+> **Description:** A brief 1-2 sentence description of the project and its real-world application.
+*   **Key Achievement:** Built an interactive dashboard to visualize and predict [X metric].
+*   **Link:** [View Repository](https://github.com/yourusername/project-link)
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect!
+
+I am always open to collaborating on open-source AI/ML projects, discussing research, or exploring remote freelance opportunities. 
+
+*   **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+*   **Email:** [your.email@example.com](mailto:your.email@example.com)
+*   **Portfolio:** [yourportfolio.com](https://yourportfolio.com) (Optional)
