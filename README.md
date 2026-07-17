@@ -65,43 +65,6 @@
   </tr>
 </table>
 
----
-
-## 📈 Developer Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 🎮 Contribution Snake Game
-
-A fun visualization of my daily commitment to code and engineering progress:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 🔮 Featured Projects
-
-### 🚀 [Project Name 1] | `Python` `Scikit-Learn` `Pandas`
-> **Description:** A brief 1-2 sentence description detailing the core algorithm and business objective solved.
-*   **Performance Metric:** Achieved X% accuracy / improved execution efficiency by Y%.
-*   📁 **[Explore Codebase](https://github.com/yourusername/project-link)**
-
-### 📊 [Project Name 2] | `Python` `Data Visualization` `ML`
-> **Description:** A brief explanation of the model architecture, feature engineering, and output insights.
-*   **Key Achievement:** Transformed raw data into a predictive system with high-precision forecasting.
-*   📁 **[Explore Codebase](https://github.com/yourusername/project-link)**
-
-<br />
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
 </div>
