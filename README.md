@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <h3>⚡ AI & Machine Learning Engineer ⚡</h3>
-  <p>Building intelligent systems, training robust models, and solving complex, real-world problems through data.</p>
+  <h3>⚡ Data Analyst & Python Developer ⚡</h3>
+  <p>Transforming datasets into clean insights, performing advanced EDA, and deploying interactive Streamlit dashboards.</p>
 
   <!-- Badges -->
   <a href="https://linkedin.com/in/[Your-LinkedIn-Username]">
@@ -13,8 +13,8 @@
   <a href="mailto:[Your-Email@example.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://[Your-Portfolio-Link]">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://github.com/fakhar123">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -24,10 +24,20 @@
 
 ## 🚀 About Me
 
-*   🎓 **Education:** Computer Science / Artificial Intelligence Student.
-*   ⚡ **Daily Commitment:** Dedicating **6–8 hours daily** to mastering mathematics, algorithms, and end-to-end model development.
-*   💼 **Career Focus:** Actively preparing for remote AI/ML engineering roles and freelance collaborations starting **January 2027**.
-*   🌱 **Core Philosophy:** Clean code, robust data pipelines, and highly optimized, scalable model training.
+*   🎓 **Education:** University Undergraduate Student (Data Science & Analytics focus).
+*   ⚡ **Daily Commitment:** Dedicating **daily hours** to mastering Python, Pandas, Streamlit, and advanced data workflows.
+*   💼 **Career Focus:** Actively offering remote freelance services for **Data Cleaning, EDA, and Dashboard Designing starting September 2026**.
+*   🌱 **Core Philosophy:** Clean code, robust data manipulation, strong English communication, and high-impact client delivery.
+
+---
+
+## 📊 Featured Projects
+
+| Project Name | Description | Tech Stack | Live Demo / GitHub |
+| :--- | :--- | :--- | :--- |
+| **1. Business Sales & Profit Dashboard** | Interactive web app to track regional sales, profit margins, and business trends. | Python, Pandas, Seaborn, Streamlit | [Live App / Repo](https://github.com/fakhar123) |
+| **2. Customer Behavior EDA App** | Deep exploratory data analysis on retail customers with custom visual plots. | Python, Pandas, NumPy, Matplotlib, Streamlit | [Live App / Repo](https://github.com/fakhar123) |
+| **3. HR Performance & Attrition Tool** | Workforce analytics dashboard for tracking employee performance and metrics. | Python, Pandas, Seaborn, Streamlit | [Live App / Repo](https://github.com/fakhar123) |
 
 ---
 
@@ -47,7 +57,7 @@
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
     </td>
     <td align="center" width="33.3%">
-      <strong>🧠 AI & Machine Learning</strong>
+      <strong>📊 Data & Web Apps</strong>
       <br/><br/>
       <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
       <br/>
@@ -56,8 +66,6 @@
       <img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
       <br/>
       <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-      <br/>
-      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
       <br/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
     </td>
