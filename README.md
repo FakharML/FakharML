@@ -26,7 +26,7 @@
 
 *   🎓 **Education:** University Undergraduate Student (Data Science & Analytics focus).
 *   ⚡ **Daily Commitment:** Dedicating **daily hours** to mastering Python, Pandas, Streamlit, and advanced data workflows.
-*   💼 **Career Focus:** Actively offering remote freelance services for **Data Cleaning, EDA, and Dashboard Designing starting September 2026**.
+*   💼 **Career Focus:** Actively offering remote freelance services for **Data Cleaning, EDA, and Dashboard Designing**.
 *   🌱 **Core Philosophy:** Clean code, robust data manipulation, strong English communication, and high-impact client delivery.
 
 ---
