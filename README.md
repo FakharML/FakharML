@@ -35,9 +35,9 @@
 
 | Project Name | Description | Tech Stack | Live Demo / GitHub |
 | :--- | :--- | :--- | :--- |
-| **1. Business Sales & Profit Dashboard** | Interactive web app to track regional sales, profit margins, and business trends. | Python, Pandas, Seaborn, Streamlit | [Live App / Repo](https://github.com/fakhar123) |
-| **2. Customer Behavior EDA App** | Deep exploratory data analysis on retail customers with custom visual plots. | Python, Pandas, NumPy, Matplotlib, Streamlit | [Live App / Repo](https://github.com/fakhar123) |
-| **3. HR Performance & Attrition Tool** | Workforce analytics dashboard for tracking employee performance and metrics. | Python, Pandas, Seaborn, Streamlit | [Live App / Repo](https://github.com/fakhar123) |
+| **1. Business Sales & Profit Dashboard** | Interactive web app to track regional sales, profit margins, and business trends. | Python, Pandas, Plotly, Streamlit | [Streamlit App](https://business-sales-dashboard-8gukvmfeq2fe4zdhn2ifpt.streamlit.app/) |
+| **2. Customer Behavior EDA App** | Deep exploratory data analysis on retail customers with custom visual plots. | Python, Pandas, Plotly, Streamlit | [Streamlit App]|
+| **3. HR Performance & Attrition Tool** | Workforce analytics dashboard for tracking employee performance and metrics. | Python, Pandas, Plotly, Streamlit | [Streamlit App]|
 
 ---
 
@@ -66,6 +66,8 @@
       <img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
       <br/>
       <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+      <br/>
+      <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
       <br/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
     </td>
