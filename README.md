@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>⚡ Data Analyst & Python Developer ⚡</h3>
+  <h3>⚡AI and ML Engineer | Data Scientist | Data Analyst & Python Developer ⚡</h3>
   <p>Transforming datasets into clean insights, performing advanced EDA, and deploying interactive Streamlit dashboards.</p>
 
   <!-- Badges -->
