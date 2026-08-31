@@ -37,7 +37,6 @@
 | :--- | :--- | :--- | :--- |
 | **1. Business Sales & Profit Dashboard** | Interactive web app to track regional sales, profit margins, and business trends. | Python, Pandas, Plotly, Streamlit | [Streamlit App](https://business-sales-dashboard-8gukvmfeq2fe4zdhn2ifpt.streamlit.app/) |
 | **2. Customer Behavior EDA App** | Deep exploratory data analysis on retail customers with custom visual plots. | Python, Pandas, Plotly, Streamlit | [Streamlit App](https://customer-behavior-equzxkzsqxdwpbngx9zpgn.streamlit.app/)
-| **3. HR Performance & Attrition Tool** | Workforce analytics dashboard for tracking employee performance and metrics. | Python, Pandas, Plotly, Streamlit | [Streamlit App]|
 
 ---
 
