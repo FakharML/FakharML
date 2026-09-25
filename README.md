@@ -7,13 +7,13 @@
   <p>Transforming datasets into clean insights, performing advanced EDA, and deploying interactive Streamlit dashboards.</p>
 
   <!-- Badges -->
-  <a href="https://linkedin.com/in/[Your-LinkedIn-Username]">
+  <a href="https://www.linkedin.com/in/fakhar-rajpoot-0b082b274/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[Your-Email@example.com]">
+  <a href="mailto:fakhar292929@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/fakhar123">
+  <a href="https://github.com/FakharML">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -36,7 +36,7 @@
 | Project Name | Description | Tech Stack | Live Demo / GitHub |
 | :--- | :--- | :--- | :--- |
 | **1. Business Sales & Profit Dashboard** | Interactive web app to track regional sales, profit margins, and business trends. | Python, Pandas, Plotly, Streamlit | [Streamlit App](https://business-sales-dashboard-8gukvmfeq2fe4zdhn2ifpt.streamlit.app/) |
-| **2. Customer Behavior EDA App** | Deep exploratory data analysis on retail customers with custom visual plots. | Python, Pandas, Plotly, Streamlit | [Streamlit App](https://customer-behavior-equzxkzsqxdwpbngx9zpgn.streamlit.app/)
+| **2. Customer Behavior EDA App** | Deep exploratory data analysis on retail customers with custom visual plots. | Python, Pandas, Plotly, Streamlit | [Streamlit App](https://customer-behavior-equzxkzsqxdwpbngx9zpgn.streamlit.app/) |
 
 ---
 
@@ -67,6 +67,8 @@
       <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
       <br/>
       <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+      <br/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
       <br/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
     </td>
