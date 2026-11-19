@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <h3>⚡AI and ML Engineer | Data Scientist | Data Analyst & Python Developer ⚡</h3>
+  <h3>⚡Data Analyst & Python Developer ⚡</h3>
   <p>Transforming datasets into clean insights, performing advanced EDA, and deploying interactive Streamlit dashboards.</p>
 
   <!-- Badges -->
-  <a href="https://www.linkedin.com/in/fakhar-rajpoot-0b082b274/">
+  <a href="https://www.linkedin.com/in/fakhar-rajput-0b082b274/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:fakhar292929@gmail.com">
